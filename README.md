@@ -1,6 +1,4 @@
-Here is the README description for your GitHub project, based on the information provided:
 
-```markdown
 # Art Gallery Web Application
 
 This project is the front-end web application for an Art Gallery, designed to manage and display art collections and artists. The application is built with HTML, CSS, JavaScript, and utilizes Bootstrap for responsive design.
